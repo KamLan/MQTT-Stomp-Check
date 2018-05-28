@@ -13,3 +13,8 @@ Docker container :
 
 Run script:
 > bash stomp.sh
+
+Use MQTT tool like MQTTBox:
+> Subscribe to topic a
+
+You should obtain the message : "This is a test"
